@@ -20,4 +20,4 @@ jobs:
           DYNA_TWITTER_SECRET: ${{ secrets.DYNA_TWITTER_SECRET }}
           DYNA_TWITTER_TOKEN: ${{ secrets.DYNA_TWITTER_TOKEN }}
           DYNA_TWITTER_TOKEN_SECRET: ${{ secrets.DYNA_TWITTER_TOKEN_SECRET }}
-          # DYNA_GITHUB_TOKEN:
+          DYNA_GITHUB_TOKEN: ${{ secrets.DYNA_GITHUB_TOKEN }}
