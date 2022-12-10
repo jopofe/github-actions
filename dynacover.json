@@ -5,40 +5,9 @@
     "twitter": {
       "count": 4,
       "class": "App\\ImageSource\\TwitterFollowerImageSource"
-    },
-    "github":  {
-      "count":  3,
-      "class": "App\\ImageSource\\GhSponsorImageSource"
     }
   },
   "elements": {
-    "sp1": {
-      "type": "image",
-      "properties": {
-        "width": 140,
-        "height": 140,
-        "pos_x": 898,
-        "pos_y": 326
-      }
-    },
-    "sp2": {
-      "type": "image",
-      "properties": {
-        "width": 140,
-        "height": 140,
-        "pos_x": 1101,
-        "pos_y": 326
-      }
-    },
-    "sp3": {
-      "type": "image",
-      "properties": {
-        "width": 140,
-        "height": 140,
-        "pos_x": 1311,
-        "pos_y": 326
-      }
-    },
     "tw1": {
       "type": "image",
       "properties": {
